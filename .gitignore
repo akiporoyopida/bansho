@@ -9,3 +9,10 @@ lessons/**/*.png
 lessons/**/*.jpg
 lessons/**/*.jpeg
 lessons/**/*.heic
+
+# レッスンとできあがりは、見本の shukuzu だけを公開する（ほかはローカルだけ）
+/lessons/*
+!/lessons/shukuzu/
+/dist/*
+!/dist/.gitkeep
+!/dist/shukuzu.html
