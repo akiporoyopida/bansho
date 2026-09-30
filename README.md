@@ -1,5 +1,7 @@
 # 板書 → 解説アニメーション・動画キット
 
+日本語 | [English](README.en.md)
+
 ホワイトボードの授業画像から、「縮図の利用・縮尺」と同じスタイルの解説アニメーション（HTML）と縦型動画（MP4）を作るためのフォルダです。Claude Code で開いて使います。
 
 ## はじめに（1回だけ）
@@ -36,7 +38,7 @@
 ```
 CLAUDE.md                 Claude Code が毎回読むメモ
 lesson.py                 コマンドの入口
-lessons/shukuzu/          完成例（板書画像・メモ・lesson.js）
+lessons/shukuzu/          完成例（メモ・lesson.js。板書の画像は著作物なので公開していません）
 dist/                     できあがり
 .claude/skills/whiteboard-lesson-video/
   SKILL.md                作り方の手順（Claude Code が必要なときに読む）
