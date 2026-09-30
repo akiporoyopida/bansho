@@ -1,0 +1,4 @@
+playwright>=1.40
+fonttools>=4.40
+brotli>=1.0
+pillow>=10.0

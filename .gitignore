@@ -1,0 +1,11 @@
+qa/
+dist/*.mp4
+.claude/skills/whiteboard-lesson-video/assets/fonts/*.ttf
+__pycache__/
+.DS_Store
+
+# 板書の画像（先生の板書・教科書のページ。著作物なので公開リポジトリに入れない）
+lessons/**/*.png
+lessons/**/*.jpg
+lessons/**/*.jpeg
+lessons/**/*.heic
